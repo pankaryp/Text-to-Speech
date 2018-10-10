@@ -1,5 +1,7 @@
 # Text-to-Speech
 
+![status in_progress](https://img.shields.io/badge/status-in_progress-brightgreen.svg)
+
 A text to speech app with Vanilla Javascript and SpeechSynthesis API
 
 ![sample-img](img/sample-img.JPG?raw=true)
